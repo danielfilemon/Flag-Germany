@@ -1,0 +1,41 @@
+body {
+    background-color: #666;
+}
+
+div {
+    width: 200px;
+    height: 50px;
+}
+
+section {
+    float: left;
+    margin: 50px;
+}
+
+.vertical {
+    width: 75px;
+    height: 150px;
+    float: left;
+}
+
+.grande {
+    height: 150px;
+}
+
+.black {
+    background-color: black;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.flag {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller
+}
